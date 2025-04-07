@@ -1,0 +1,9 @@
+﻿{
+	"EnableMod": true,
+	"SaveIconEnabled": true,
+	"Preset": "Vanilla",
+	"SaveKey": "F5",
+	"LoadKey": "F6",
+	"AutoSaveEnabled": false,
+	"AutoSaveTime": 15
+}

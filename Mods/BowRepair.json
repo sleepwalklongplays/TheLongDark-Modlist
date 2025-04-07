@@ -1,0 +1,12 @@
+﻿{
+	"BowRepairMode": 2,
+	"BowMaterialNeed": 1,
+	"DLCEnable": false,
+	"SportBowRepairMode": 1,
+	"SportBowMaterialNeed": 1,
+	"WoodBowRepairMode": 2,
+	"WoodBowMaterialNeed": 0,
+	"BushBowRepairMode": 2,
+	"BushBowMaterialNeed": 1,
+	"ResetSettings": false
+}

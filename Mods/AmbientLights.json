@@ -1,0 +1,14 @@
+﻿{
+	"alPreset": "TLD_Default",
+	"intensityMultiplier": 0,
+	"rangeMultiplier": 0,
+	"nightBrightness": 0,
+	"trueSun": true,
+	"ambienceLevel": 1,
+	"fillLevel": 1,
+	"fillColorLevel": 1,
+	"auroraIntensity": 1,
+	"auroraSaturation": 1,
+	"enableDebugKey": false,
+	"verbose": false
+}

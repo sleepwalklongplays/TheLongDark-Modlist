@@ -1,0 +1,13 @@
+﻿{
+	"currentPage": 9,
+	"fontSize": 16,
+	"enableRTL": false,
+	"textAlignment": 0,
+	"timeScale": 1,
+	"disableInteraction": true,
+	"openKeyCode": "Alpha5",
+	"bookTilt": 0,
+	"bookTexture": 0,
+	"reloadBook": false,
+	"debugLog": false
+}

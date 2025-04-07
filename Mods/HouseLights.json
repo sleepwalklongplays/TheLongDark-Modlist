@@ -1,0 +1,9 @@
+﻿{
+	"intensityValue": 2,
+	"rangeMultiplier": 1.4,
+	"enableOutside": false,
+	"cullDistance": 50,
+	"disableAuroraFlicker": false,
+	"castShadows": false,
+	"whiteLights": false
+}

@@ -1,0 +1,10 @@
+﻿{
+	"EnableRefuelLampKey": false,
+	"RefuelLampKey": "R",
+	"refuelTime": 2.9748955,
+	"pilgramSpawnExpectation": 70,
+	"voyagerSpawnExpectation": 40,
+	"stalkerSpawnExpectation": 20,
+	"interloperSpawnExpectation": 8,
+	"challengeSpawnExpectation": 50
+}
